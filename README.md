@@ -1,8 +1,8 @@
 # phpstudy-lagecy-scoop
 
 phpStudy 作为 Windows 平台上一个非常易用的集成开发环境，一直在更新。不过我对 2016
-版本仍情有独钟，可以其已经停止维护，里面的 Apache、Nginx、PHP 等组件都已经老久过时，
-不过其实它的管理面板仍然非常简洁好用。
+版本仍情有独钟， 可惜已经停止维护，里面的 Apache、Nginx、PHP 等组件都已经老久过时，
+不过它的管理面板仍然非常简洁好用。
 
 ![phpstudy2016](phpstudy2016.jpg)
 
